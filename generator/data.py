@@ -188,14 +188,15 @@ ch(C12, "comparative-common-size-statements", "CBSE Class 12 Comparative and Com
 C11 = "cbse-class-11-accountancy"
 ch(C11, "adjustments-in-financial-statements", "CBSE Class 11 Adjustments in Preparation of Financial Statements Solved PDF",
    "CBSE Class 11 Accountancy – Adjustments in Preparation of Financial Statements (PDF)",
-   "CBSE Class 11 Adjustments in Preparation of Financial Statements solved PDF: T.S. Grewal 2026 practical questions 25 to 36 step by step.",
+   "CBSE Class 11 Adjustments in Preparation of Financial Statements solved PDF: T.S. Grewal 2026 practical questions 25 to 38 step by step.",
    "T.S. Grewal 2026 edition practical questions on Adjustments in Preparation of Financial Statements, solved step by step: Trading Account, Profit and Loss Account and Balance Sheet with every adjustment shown.",
    ["Closing stock given inside the Trial Balance goes only to the Balance Sheet, not to the Trading Account.",
     "Outstanding expenses are added to the expense and shown as a current liability.",
     "Prepaid expenses are deducted from the expense and shown as a current asset.",
     "Calculate the new provision for doubtful debts after deducting further bad debts from debtors.",
     "Goods withdrawn for personal use are deducted from purchases at cost and added to drawings."],
-   [("1YoGM9mqfKkTylh1Er1PGnXvWJIQTFDko","Solved Practical Questions 2025–2026","Practical questions with all adjustments, solved.","2026-11-18",""),
+   [("1Fo78bO6DEJbm9DCQ4Had0L-E3QGlzgkM","T.S. Grewal Practical Questions 36, 37 and 38","Textbook questions solved with working notes: Trading and P&L Account and Balance Sheet (Karman, Rajiv, Ashok).","2026-11-19",""),
+    ("1YoGM9mqfKkTylh1Er1PGnXvWJIQTFDko","Solved Practical Questions 2025–2026","Practical questions with all adjustments, solved.","2026-11-18",""),
     ("1k4p-AHraaGouTLgVObJlSpuPZds__8BQ","T.S. Grewal Practical Questions 34, 35 and 36","Textbook questions, solved.","2026-11-16",""),
     ("1zeVpiZQ1SX58294QEIZzjvcIOUKVnGV4","T.S. Grewal Practical Questions 30, 31, 32 and 33","Textbook questions, solved.","2026-11-10",""),
     ("1psG7xOoVY6viQ672nJN12UhP1UvHDweR","T.S. Grewal Practical Questions 25 to 29","Textbook questions, solved step by step.","2026-11-08","")])
