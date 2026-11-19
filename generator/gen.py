@@ -5,6 +5,7 @@ from data import COURSES, CH
 BASE = "https://notes.goodwillonlinetuition.com"
 OUT = sys.argv[1]
 GULF_URL = "https://goodwill-plus-two-gulf.netlify.app/"
+PLUS_ONE_GULF_URL = "https://goodwill-plus-one-gulf.netlify.app/?src=site"
 WA = "https://wa.me/919567902805"
 MONTHS = "January February March April May June July August September October November December".split()
 e = html.escape
@@ -88,9 +89,17 @@ def pdf_list(pdfs):
     out.append("</ul>")
     return "\n".join(out)
 
-def gulf_box(depth):
+def gulf_box(depth, course=None):
+    # Class 11 pages -> Plus One Gulf page; Class 12 pages -> Plus Two Gulf page; home -> both
+    if course == "cbse-class-11-accountancy":
+        link = f'<a href="{PLUS_ONE_GULF_URL}" target="_blank" rel="noopener">See Plus One classes for Gulf students</a>'
+    elif course is None:
+        link = (f'<a href="{PLUS_ONE_GULF_URL}" target="_blank" rel="noopener">Plus One classes</a> · '
+                f'<a href="{GULF_URL}" target="_blank" rel="noopener">Plus Two classes</a>')
+    else:
+        link = f'<a href="{GULF_URL}" target="_blank" rel="noopener">See classes for Gulf students</a>'
     return f"""<aside class="gulf"><b>Studying in a CBSE school in the UAE, Qatar, Saudi Arabia, Kuwait, Oman or Bahrain?</b>
-<p>Rainy Sir teaches Gulf students live on Zoom, one-to-one, from 4:30 to 8:30 pm IST (3:00 to 7:00 pm UAE time). <a href="{GULF_URL}" target="_blank" rel="noopener">See classes for Gulf students</a></p></aside>"""
+<p>Rainy Sir teaches Gulf students live on Zoom, one-to-one, from 4:30 to 8:30 pm IST (3:00 to 7:00 pm UAE time). {link}</p></aside>"""
 
 CASHFLOW_EX = open(os.path.join(os.path.dirname(__file__), "ex_cashflow.html")).read()
 
@@ -114,7 +123,7 @@ for x in CH:
 {pdf_list(x["pdfs"])}
 {CASHFLOW_EX if x.get("example") == "cashflow" else ""}
 <section class="miss"><h2>Points students often miss</h2><ul>{"".join(f"<li>{e(p)}</li>" for p in x["points"])}</ul></section>
-{gulf_box(2) if c["gulf"] else ""}
+{gulf_box(2, c["slug"]) if c["gulf"] else ""}
 {f'<h2>Other chapters in {e(c["name"])}</h2><ul class="chapters">{sib}</ul>' if sib else ""}
 <p class="back"><a href="../index.html">← All {e(c["name"])} materials</a></p>"""
     ld = {"@context": "https://schema.org", "@type": "CollectionPage", "name": x["h1"], "description": x["desc"],
@@ -149,7 +158,7 @@ for c in COURSES:
 <ul class="chlist">{"".join(rows)}</ul>
 {extra}
 {links}
-{gulf_box(1) if c["gulf"] else ""}"""
+{gulf_box(1, c["slug"]) if c["gulf"] else ""}"""
     desc = f'{c["name"]} solved questions PDF, chapter by chapter: {c["blurb"]}'
     files[path + "index.html"] = (page(path, f'{c["name"]} Solved Questions PDF | Goodwill', desc[:300], body,
         [("Study Materials", ""), (c["name"], path)], 1), max(lasts))
