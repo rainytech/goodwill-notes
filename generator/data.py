@@ -26,6 +26,9 @@ COURSES = [
        gulf=False,
        extras=[("1d9fhhDO-BGOzXkK9yBbRF-EPnh5M8IpM","MGU B.Com Examination Timetable – Oct–Nov 2026","The university exam schedule.","2026-10-10","")],
        links=[("https://www.goodwillonlinetuition.com/mgu-bcom-honours-income-tax-salary-illustrations","MGU B.Com Honours Income Tax – Salary Illustrations page")]),
+  dict(slug="mgu-bcom-6th-semester", name="MGU B.Com Honours – 6th Semester", short="MGU B.Com 6th Sem",
+       blurb="Cost Accounting for MGU B.Com Honours 6th semester: cost sheets, tenders and quotation prices, solved step by step.",
+       gulf=False, extras=[]),
   dict(slug="mumbai-university-bcom-costing", name="Mumbai University B.Com – Cost Accounting", short="Mumbai B.Com Costing",
        blurb="Contract costing and process costing problems for Mumbai University B.Com, solved step by step.",
        gulf=False, extras=[]),
@@ -492,6 +495,19 @@ ch(M5, "cost-sheet", "Cost Accounting Cost Sheet Solved Questions PDF (Dr. Jayan
     ("1rbqxVAC2m2Tmw8FDfWqYcBcjxERQ1Lbz","Cost Sheet – Dr. Jayan Questions 8 to 12","Solved questions.","2026-07-20",""),
     ("1h1OVFkz_hNYn4TacEEn4JAKAqREmRgMP","Cost Sheet – Dr. Jayan Practical Problems 1 to 7 and Question 10","Solved problems.","2026-07-20","")])
 
+# ---------------- MGU 6TH SEM ----------------
+M6 = "mgu-bcom-6th-semester"
+ch(M6, "cost-sheet-tender-quotation", "MGU B.Com 6th Sem Cost Sheet, Tender and Quotation Price Solved PDF",
+   "MGU B.Com Honours 6th Semester – Cost Sheet, Tender and Quotation Price (PDF)",
+   "Cost sheet, tender and quotation price solved PDF for MGU B.Com Honours 6th semester: overhead absorption rates and profit on selling price.",
+   "Solved questions on preparing a cost sheet from the past year's accounts and using it to quote a price for a new job: factory overhead absorbed on labour, administration overhead on works cost, and profit converted from selling price to cost.",
+   ["Factory overhead rate = Factory overhead ÷ Direct labour × 100, when it is absorbed on the basis of labour.",
+    "Administration overhead rate = Administration overhead ÷ Works cost × 100, when it is absorbed on the basis of works cost.",
+    "The rates worked out from the past year's cost sheet are applied to the estimated cost of the new job.",
+    "Profit of 20% on selling price is one-fourth (25%) of cost: if sales are 100, cost is 80 and profit is 20.",
+    "Profit on cost = Cost × Rate ÷ (100 − Rate), when the rate is given on selling price."],
+   [("1j817Wx-9-O-fMTKaZrJeaJ_6mS6dNVoR","Cost Sheet and Quotation Price – Illustration 11 and Dr. Jayan Question 9","Voltas Air Conditioners Ltd. (profit 12½% on selling price) and Cooling India Ltd. (profit 20% on selling price): cost sheet, overhead absorption rates and quotation price.","2026-11-21","")])
+
 # ---------------- MUMBAI ----------------
 MU = "mumbai-university-bcom-costing"
 ch(MU, "contract-costing", "Mumbai University B.Com Contract Costing Solved Questions PDF",
@@ -536,3 +552,14 @@ ch(AB, "previous-question-papers-solved", "Amity BBA Financial Management Previo
     ("1uEURCxQNNXTCxtTxdfemzxqXFVxkEY8_","Compound Value – December 2023, 2024 and 2025","Solved questions.","2026-11-11",""),
     ("1Awp5nma0EM9TEQeey-3YqbTygOUdR-jR","Discounted Payback Period – December 2024 and 2022, Q7 and Q8","Solved questions.","2026-10-31",""),
     ("1ieHPwlCMO_-fCSRwgeakYeXpJWXP-Jh6","Payback Period – December 2023 and 2024, Q7 and Q8","Solved questions.","2026-10-29","")])
+
+ch(AB, "operations-management-eoq", "Amity BBA Semester 3 Operations Management EOQ Solved Questions PDF",
+   "Amity BBA Semester 3 – Operations Management: Basic EOQ Model Solved Questions (PDF)",
+   "Amity BBA Sem 3 Operations Management basic EOQ model solved PDF: EOQ, number of orders, time between orders and total inventory cost.",
+   "Solved practical questions on the basic EOQ model from Unit 5 (Inventory Management) of Amity BBA Semester 3 Operations Management: Economic Order Quantity, number of orders a year, time between orders, annual ordering and holding cost, and total annual inventory cost.",
+   ["EOQ = square root of (2 × Annual demand × Ordering cost per order ÷ Holding cost per unit per year).",
+    "Number of orders a year = Annual demand ÷ EOQ.",
+    "Time between orders = Working days in the year ÷ Number of orders.",
+    "Annual holding cost = EOQ ÷ 2 × Holding cost per unit per year.",
+    "At the EOQ, annual ordering cost equals annual holding cost, which is a quick check on the answer."],
+   [("1XGn5knkwOGPIwqzzTLlz7FWeVAhEihn7","Operations Management – Basic EOQ Model, Questions 16, 16a and 16b","Unit 5 Inventory Management: EOQ, number of orders, time between orders, ordering, holding and total inventory cost, solved.","2026-11-21","")])
