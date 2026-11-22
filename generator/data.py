@@ -53,7 +53,8 @@ ch(C12, "cash-flow-statement", "CBSE Class 12 Cash Flow Statement Solved Questio
     "Interest on debentures is added back under Operating Activities and shown as an outflow under Financing Activities.",
     "For a financial enterprise, dividend received is an Operating Activity.",
     "When profit after tax is given, add back the provision for tax made to find Net Profit before Tax."],
-   [("1_z-BqPRNqpD4Vy1NmDuTrm5oJ42Ljm76","T.S. Grewal Practical Questions 42, 43 and 44 – Cash Flow Statement with Adjustments","Bright Ltd., Fine Products Ltd. and Mevanca Ltd.: interim and proposed dividend, provision for tax, interest on a loan raised mid-year, machinery and accumulated depreciation working notes.","2026-11-20",""),
+   [("1YuuVzhtV6zVJVP8s6jQ8kT88qGQpP8Bb","T.S. Grewal Practical Questions 10 to 19 – Cash Flow from Operating Activities","Operating Profit before Working Capital Changes and Cash Flow from Operating Activities, including Charles Ltd., Sunrise Ltd. and Mercury Ltd.: income tax refund, insurance claim and natural-disaster compensation as extraordinary items, provision for doubtful debts.","2026-11-22",""),
+    ("1_z-BqPRNqpD4Vy1NmDuTrm5oJ42Ljm76","T.S. Grewal Practical Questions 42, 43 and 44 – Cash Flow Statement with Adjustments","Bright Ltd., Fine Products Ltd. and Mevanca Ltd.: interim and proposed dividend, provision for tax, interest on a loan raised mid-year, machinery and accumulated depreciation working notes.","2026-11-20",""),
     ("16QF0yGN3wjpYEtyBUECL7lXH7kM3TBwG","T.S. Grewal Practical Questions 35 to 40 – Financing Activities and Full Cash Flow Statements","Financing Activities (Q35–38) plus complete Cash Flow Statements of Young India Ltd. and Nidhi Ltd., with current investments treated as cash equivalents.","2026-11-18",""),
     ("1ykYq2aSTcHkG19XskbR5oy7HsIIkVMyF","Cash Flow from Financing Activities – T.S. Grewal Q35, 36, 37, 38","Loan raised and repaid, bonus shares, redemption of preference shares at a premium, interim dividend.","2026-11-18",""),
     ("1KvlBapzVlne0I7h0voktBkEMwgeAgM87","Cash Flow from Investing Activities – CBSE Previous Year Questions 2021–2026","Board questions on Investing Activities, solved step by step.","2026-11-16",""),
@@ -506,7 +507,8 @@ ch(M6, "cost-sheet-tender-quotation", "MGU B.Com 6th Sem Cost Sheet, Tender and 
     "The rates worked out from the past year's cost sheet are applied to the estimated cost of the new job.",
     "Profit of 20% on selling price is one-fourth (25%) of cost: if sales are 100, cost is 80 and profit is 20.",
     "Profit on cost = Cost × Rate ÷ (100 − Rate), when the rate is given on selling price."],
-   [("1j817Wx-9-O-fMTKaZrJeaJ_6mS6dNVoR","Cost Sheet and Quotation Price – Illustration 11 and Dr. Jayan Question 9","Voltas Air Conditioners Ltd. (profit 12½% on selling price) and Cooling India Ltd. (profit 20% on selling price): cost sheet, overhead absorption rates and quotation price.","2026-11-21","")])
+   [("1G-yXx9Xk3-clCVwEOs8kADhYnV8FOcp2","Tender or Quotation – Dr. Jayan Questions 13 and 14 and Illustration 17","National Ltd. and Alpha Manufacturing Company (profit 20% on selling price) and Samsung India Ltd. (revised overhead rates for a new model, same profit rate on selling price): cost sheet, overhead absorption rates and quotation price.","2026-11-22",""),
+    ("1j817Wx-9-O-fMTKaZrJeaJ_6mS6dNVoR","Cost Sheet and Quotation Price – Illustration 11 and Dr. Jayan Question 9","Voltas Air Conditioners Ltd. (profit 12½% on selling price) and Cooling India Ltd. (profit 20% on selling price): cost sheet, overhead absorption rates and quotation price.","2026-11-21","")])
 
 # ---------------- MUMBAI ----------------
 MU = "mumbai-university-bcom-costing"
