@@ -228,7 +228,8 @@ ch(KL, "dhse-previous-question-papers-solved", "Kerala Plus Two Accountancy DHSE
     "Show working notes for every adjustment; marks are given for steps.",
     "Partnership questions (admission, retirement, death, dissolution) carry a large share of the marks.",
     "Balance every capital and realisation account before moving on."],
-   [("15xVO21UccT5MbNBHzbqHyzvlMYP_mZbi","Partnership – Solved Practical Questions 2022","Board questions on partnership, solved.","2026-11-17",""),
+   [("1YaOLJ6dw4-m3h4m2lwKcgZWaGki-O1-J","Model Question Paper – HSE Second Terminal Pattern, December 2026 (Questions 8–12, 15, 16, 18–20 Solved)","Partnership numericals in the second terminal pattern: sacrificing and gaining ratio, premium for goodwill withdrawn, accumulated profit on retirement, interest on drawings (product method), goodwill by capitalisation of super profit, guarantee of minimum profit, revaluation and capital accounts on admission, and retiring partner's loan paid in instalments.","2026-11-23",""),
+    ("15xVO21UccT5MbNBHzbqHyzvlMYP_mZbi","Partnership – Solved Practical Questions 2022","Board questions on partnership, solved.","2026-11-17",""),
     ("127zHy2excCSzN6rUqk0N13QPbO78N3KL","Partnership – Solved Practical Questions 2019","Board questions on partnership, solved.","2026-11-18",""),
     ("1QogZ8N4O9qie9PkBGUe4_gLy4VfbU7ku","Partnership – Solved Practical Questions 2018","Board questions on partnership, solved.","2026-11-18",""),
     ("1KXbNxPO4w7HiOpDAA6DENFqNZIPENmbR","Second Terminal Exam December 2023 – Q6 to Q16 Solved","Answer key with partnership questions.","2026-11-12",""),
@@ -507,7 +508,8 @@ ch(M6, "cost-sheet-tender-quotation", "MGU B.Com 6th Sem Cost Sheet, Tender and 
     "The rates worked out from the past year's cost sheet are applied to the estimated cost of the new job.",
     "Profit of 20% on selling price is one-fourth (25%) of cost: if sales are 100, cost is 80 and profit is 20.",
     "Profit on cost = Cost × Rate ÷ (100 − Rate), when the rate is given on selling price."],
-   [("1G-yXx9Xk3-clCVwEOs8kADhYnV8FOcp2","Tender or Quotation – Dr. Jayan Questions 13 and 14 and Illustration 17","National Ltd. and Alpha Manufacturing Company (profit 20% on selling price) and Samsung India Ltd. (revised overhead rates for a new model, same profit rate on selling price): cost sheet, overhead absorption rates and quotation price.","2026-11-22",""),
+   [("1eknaKfyRp2MNU_dkzEfTGycv1UXpmH_T","Cost Sheet and Quotation Price – Dr. Jayan Illustrations 13, 14 and 15","Digital watches cost sheet and statement of estimate (profit 10% on selling price), average quotation price at 50% and 80% capacity with semi-variable overhead in slabs, and Nutan Stove Manufacturing Company Ltd. quotation for 1,000 stoves.","2026-11-23",""),
+    ("1G-yXx9Xk3-clCVwEOs8kADhYnV8FOcp2","Tender or Quotation – Dr. Jayan Questions 13 and 14 and Illustration 17","National Ltd. and Alpha Manufacturing Company (profit 20% on selling price) and Samsung India Ltd. (revised overhead rates for a new model, same profit rate on selling price): cost sheet, overhead absorption rates and quotation price.","2026-11-22",""),
     ("1j817Wx-9-O-fMTKaZrJeaJ_6mS6dNVoR","Cost Sheet and Quotation Price – Illustration 11 and Dr. Jayan Question 9","Voltas Air Conditioners Ltd. (profit 12½% on selling price) and Cooling India Ltd. (profit 20% on selling price): cost sheet, overhead absorption rates and quotation price.","2026-11-21","")])
 
 # ---------------- MUMBAI ----------------
