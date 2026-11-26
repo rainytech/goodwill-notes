@@ -219,6 +219,29 @@ ch(C11, "depreciation", "CBSE Class 11 Depreciation Solved Questions PDF",
    [("1Q5sAmTfkGnQNPLV-7EFY4jVdN6olVKqU","Depreciation – Questions 10 to 15","Solved questions.","2026-09-27",""),
     ("1pMTlBRpqjYQsm4FF3s-3KK9Q6YJKNs9j","Depreciation – Solved Questions","Solved questions on both methods.","2026-09-22","")])
 
+ch(C11, "accounting-equation", "CBSE Class 11 Accounting Equation Solved Questions PDF (T.S. Grewal)",
+   "CBSE Class 11 Accountancy – Accounting Equation Solved Questions (PDF)",
+   "CBSE Class 11 Accounting Equation solved PDF: T.S. Grewal Chapter 5 practical questions 2 to 7 with the new equation after every transaction.",
+   "T.S. Grewal Chapter 5 practical questions on the Accounting Equation, solved in table form: the effect of each transaction on assets, liabilities and capital, the new equation after every step, and the Balance Sheet at the end.",
+   ["Assets = Liabilities + Capital must balance after every single transaction.",
+    "Buying an asset for cash only swaps one asset for another, so capital does not change.",
+    "On a sale of goods, stock falls by the cost, cash or debtors rise by the sale price, and the profit is added to capital.",
+    "Expenses paid and drawings reduce both cash and capital.",
+    "An outstanding expense raises a liability and reduces capital; rent paid in advance is an asset swap."],
+   [("1K2cru33_PVY_W_zX8l6oVclhiOTGB9Za","T.S. Grewal Chapter 5 Practical Questions 2 to 7 – Accounting Equation","Transactions of Gopinath, Gurman, Mohan and others shown in the Accounting Equation table, including sale at a loss, discount received, depreciation, outstanding expenses and prepaid rent, with a Balance Sheet for Q3.","2026-11-25","")])
+
+ch(C11, "accounts-from-incomplete-records", "CBSE Class 11 Accounts from Incomplete Records (Single Entry System) Solved PDF",
+   "CBSE Class 11 Accountancy – Accounts from Incomplete Records (Single Entry System) Solved Questions (PDF)",
+   "CBSE Class 11 Single Entry System solved PDF: T.S. Grewal Accounts from Incomplete Records practical questions 1 to 10, Statement of Affairs and profit.",
+   "T.S. Grewal practical questions on Accounts from Incomplete Records (Single Entry System), solved step by step: capital by the Statement of Affairs, missing figures of capital, drawings and profit, and the Statement of Profit or Loss.",
+   ["Capital = Total Assets − External Liabilities, found through the Statement of Affairs.",
+    "Profit = Closing Capital + Drawings − Additional Capital − Opening Capital.",
+    "If opening capital is not given, prepare a Statement of Affairs at the beginning of the year as well.",
+    "Goods withdrawn by the proprietor are added to drawings at cost, not at selling price.",
+    "Money from the sale of personal assets brought into the business is additional capital.",
+    "Depreciation and other adjustments are deducted from the profit found by comparing capitals."],
+   [("1TRL8NbTZXXowCqOwyTv3DmIFYGNwyX3v","T.S. Grewal Practical Questions 1 to 10 – Single Entry System","Statement of Affairs, additional capital, drawings and profit as missing figures, goods withdrawn at cost, and Statement of Profit or Loss with depreciation (Arun, Rajiv, Pankaj, Sunil, Krishan, Muneesh, Sarvesh).","2026-11-26","")])
+
 # ---------------- KERALA PLUS TWO ----------------
 KL = "kerala-plus-two-accountancy"
 ch(KL, "dhse-previous-question-papers-solved", "Kerala Plus Two Accountancy DHSE Previous Question Papers Solved PDF",
@@ -229,7 +252,8 @@ ch(KL, "dhse-previous-question-papers-solved", "Kerala Plus Two Accountancy DHSE
     "Show working notes for every adjustment; marks are given for steps.",
     "Partnership questions (admission, retirement, death, dissolution) carry a large share of the marks.",
     "Balance every capital and realisation account before moving on."],
-   [("1xGYsISsNR9ZgM9F1sde75bDef1Cf3ENj","Model Question Paper Set 2 – HSE Second Terminal Pattern, December 2026 (Questions 8–14, 16–20 Solved)","Partnership numericals: new profit sharing ratio, premium for goodwill retained, accumulated profit and loss on retirement, goodwill on death, super profit and hidden goodwill, revaluation entries, interest on capital and drawings, deceased partner's share of profit, capital adjustment through current accounts, appropriation account, and retiring partner's capital adjustment.","2026-11-24",""),
+   [("1Eru44qVuhSBcwmH3ODiKql0qqEl4FtUN","Model Question Paper Set 3 – HSE Second Terminal Pattern, December 2026 (Questions 6, 7, 9–12, 14–16 Solved)","Partnership numericals: interest on capital with additional capital, new profit sharing ratio, appropriation account, interest on drawings, premium for goodwill withdrawn, accumulated profit and loss, goodwill by capitalisation of average profit, retiring partner's capital account, and a full admission question with revaluation, capital accounts and new Balance Sheet.","2026-11-25",""),
+    ("1xGYsISsNR9ZgM9F1sde75bDef1Cf3ENj","Model Question Paper Set 2 – HSE Second Terminal Pattern, December 2026 (Questions 8–14, 16–20 Solved)","Partnership numericals: new profit sharing ratio, premium for goodwill retained, accumulated profit and loss on retirement, goodwill on death, super profit and hidden goodwill, revaluation entries, interest on capital and drawings, deceased partner's share of profit, capital adjustment through current accounts, appropriation account, and retiring partner's capital adjustment.","2026-11-24",""),
     ("1YaOLJ6dw4-m3h4m2lwKcgZWaGki-O1-J","Model Question Paper – HSE Second Terminal Pattern, December 2026 (Questions 8–12, 15, 16, 18–20 Solved)","Partnership numericals in the second terminal pattern: sacrificing and gaining ratio, premium for goodwill withdrawn, accumulated profit on retirement, interest on drawings (product method), goodwill by capitalisation of super profit, guarantee of minimum profit, revaluation and capital accounts on admission, and retiring partner's loan paid in instalments.","2026-11-23",""),
     ("15xVO21UccT5MbNBHzbqHyzvlMYP_mZbi","Partnership – Solved Practical Questions 2022","Board questions on partnership, solved.","2026-11-17",""),
     ("127zHy2excCSzN6rUqk0N13QPbO78N3KL","Partnership – Solved Practical Questions 2019","Board questions on partnership, solved.","2026-11-18",""),
@@ -569,3 +593,14 @@ ch(AB, "operations-management-eoq", "Amity BBA Semester 3 Operations Management 
     "Annual holding cost = EOQ ÷ 2 × Holding cost per unit per year.",
     "At the EOQ, annual ordering cost equals annual holding cost, which is a quick check on the answer."],
    [("1XGn5knkwOGPIwqzzTLlz7FWeVAhEihn7","Operations Management – Basic EOQ Model, Questions 16, 16a and 16b","Unit 5 Inventory Management: EOQ, number of orders, time between orders, ordering, holding and total inventory cost, solved.","2026-11-21","")])
+
+ch(AB, "operations-management-capacity-planning", "Amity BBA Operations Management Capacity Planning Case Study Solved PDF",
+   "Amity BBA – Operations Management: Capacity Planning Case Study Solved (PDF)",
+   "Amity BBA Fundamentals of Production and Operations Management (POM201) December 2023 capacity planning case study solved PDF.",
+   "The Section C compulsory case study (20 marks) from the Amity BBA Fundamentals of Production and Operations Management (POM201) paper of December 2023, solved in simple language: SuperMart Emporium's capacity planning with predictive analytics, dynamic staffing, cross-training and self-checkout.",
+   ["Capacity planning means matching the capacity available with the demand expected.",
+    "Forecasting demand from past records is the first step in planning capacity.",
+    "When space cannot be increased, flexible staffing and cross-trained workers add capacity at peak hours.",
+    "Technology such as self-checkout raises the number of customers served per hour in the same space.",
+    "In a case study, write four or five numbered points for each part and use facts from the case."],
+   [("1OylVt9vA8SVUT5HYPqoerxWfecbQnERa","POM201 December 2023 – Capacity Planning Case Study (SuperMart Emporium) Solved","Section C, Q10 (a) to (d): role of predictive analytics, handling fluctuating foot traffic and checkout lines, technology used and its purpose, and customer experience, with Indian retail examples and exam tips.","2026-11-26","")])
