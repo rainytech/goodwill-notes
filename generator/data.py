@@ -119,6 +119,18 @@ ch(C12, "accounting-for-share-capital", "CBSE Class 12 Accounting for Share Capi
     ("1bhR-Cax4ig1AtzrnI1de-SNO94WBoo5h","P.K. Lazar – Illustrations 10, 10A, 10B (Pro Rata Allotment)","Pro rata allotment, solved.","2026-06-26",""),
     ("1kiJsziydgb9qh4M1sR-2QHyxQOeoo4-j","P.K. Lazar – Illustrations 9, 9A, 9B (Oversubscription and Refund)","Oversubscription and refund of excess money.","2026-06-25","")])
 
+ch(C12, "partnership-fundamentals", "CBSE Class 12 Partnership Fundamentals Solved Questions PDF",
+   "CBSE Class 12 Accountancy – Accounting for Partnership Firms: Fundamentals (PDF)",
+   "Partnership Fundamentals solved questions PDF for CBSE Class 12: T.S. Grewal textbook questions on the Partnership Deed, P&L Appropriation Account, interest on capital and past adjustments.",
+   "T.S. Grewal textbook questions on the fundamentals of partnership accounts, solved: settling disputes when there is no Partnership Deed, the Profit and Loss Appropriation Account, interest on capital and drawings, and adjusting entries for past errors.",
+   ["Without a Partnership Deed, profits are shared equally and no interest on capital or salary is allowed to partners.",
+    "Without a Partnership Deed, interest @ 6% p.a. is allowed on a loan given by a partner to the firm.",
+    "Interest on capital is calculated on the opening capital of each partner.",
+    "Interest on a partner's loan is a charge against profit (Profit and Loss Account), not an appropriation.",
+    "When the date of drawings is not given, interest on drawings is charged for an average period of 6 months.",
+    "When capitals are fixed, interest, salary and share of profit are credited to the partners' Current Accounts."],
+   [("1hhJCdeomXvuhGd7dpi6Sz1c1sErMd6YN","T.S. Grewal Practical Questions 2, 22, 29, 48, 50, 58 and 59","No Partnership Deed disputes, P&L Appropriation Account, interest on capital and past adjustments (including a CBSE 2024 question), solved.","2026-11-27","")])
+
 ch(C12, "dissolution-of-partnership-firm", "CBSE Class 12 Dissolution of Partnership Firm Solved Questions PDF",
    "CBSE Class 12 Accountancy – Dissolution of a Partnership Firm Solved Questions (PDF)",
    "Dissolution of a Partnership Firm solved questions PDF for CBSE Class 12: T.S. Grewal textbook exercises with Realisation Account and capital accounts.",
